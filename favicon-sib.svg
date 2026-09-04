@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="titulo descripcion">
+  <title id="titulo">Sistema Integral de Beneficiarios</title>
+  <desc id="descripcion">Anillo institucional multicolor con corazón central y fondo transparente.</desc>
+  <g fill="none" stroke-width="8" stroke-linecap="round">
+    <path d="M32 6A26 26 0 0 1 58 32" stroke="#e85aa0"/>
+    <path d="M58 32A26 26 0 0 1 32 58" stroke="#79cda7"/>
+    <path d="M32 58A26 26 0 0 1 6 32" stroke="#5e92d2"/>
+    <path d="M6 32A26 26 0 0 1 32 6" stroke="#f1c75b"/>
+  </g>
+  <path d="M32 46C29 43 18 36 18 28C18 20 28 18 32 25C36 18 46 20 46 28C46 36 35 43 32 46Z"
+        fill="#e85aa0" stroke="#9d1f51" stroke-width="1.5" stroke-linejoin="round"/>
+</svg>
